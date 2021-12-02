@@ -7,7 +7,7 @@
                 </span>
                 <div class="mt-1 text-white fw-bold">MyJio</div>
             </div>
-            <img src="../../../assets/images/card_images/myjiobg.jpg" class="w-100" alt="Myjio">
+            <img :src="img" class="w-100" alt="Myjio">
             <div class="jds-card-body p-0">
                 <div class="circle-app-details myjio_bg text-white">
                     <h5 class="h5 font-black mb-2">Step into your<br>
@@ -28,6 +28,15 @@
 <script>
 export default {
     name: 'iconscard',
+    data(){
+        return{
+            iconcards:[
+                {
+                    img:require('../../../assets/images/card_images/myjiobg.jpg'),
+                },
+            ],
+        }
+    },
     props: ['Discover', 'iconstop', 'background'],
 }
 </script>

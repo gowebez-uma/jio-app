@@ -32,233 +32,8 @@
             <section class="contain">
                 <h5 class="text-muted ps-3 pb-3">Life is Beautiful with Jio Apps</h5>
                 <div class="row mx-auto">
-                    <div class="col-lg-3 col-md-6 mb-3">
-                        <div class="card round text-center" style="height: 460px;">
-                            <div class="trans-img">
-                                <img class="card-img-top" src="../../../assets/images/myjio/card/home-myjio-v5_904a06738a22262052d670a5f61174cf.jpg" alt="Card image">
-                            </div>
-                            <div class="card-body my-3">
-                                <h5 class="card-title"><img src="../../../assets/images/myjio/cardicons/myjio-logo-thumb-34x34-v2.png"> MyJio</h5>
-                                <p class="card-text text-muted">For everything Jio.</p>
-                                <card></card>
-                                <div class="mt-3">
-                                    <img class="mb-1" src="../../../assets/images/myjio/cardicons/1App store.png">
-                                    <img class="ms-1" src="../../../assets/images/myjio/cardicons/google-play-button-jiosecurity.png">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 mb-3">
-                        <div class="card round text-center" style="height: 460px;">
-                            <div class="trans-img">
-                                <img class="card-img-top" src="../../../assets/images/myjio/card/promo-banner.432x270.jpg" alt="Card image">
-                            </div>
-                            <div class="card-body my-3">
-                                <h5 class="card-title"><img src="../../../assets/images/myjio/cardicons/JioSaavn-Icon-30x30-12.png"> JioSaavn</h5>
-                                <p class="card-text text-muted">All your music. Anytime. Anywhere.</p>
-                                <card></card>
-                                <div class="mt-3">
-                                    <img class="mb-1" src="../../../assets/images/myjio/cardicons/1App store.png">
-                                    <img class="ms-1 mb-1" src="../../../assets/images/myjio/cardicons/google-play-button-jiosecurity.png"><br>
-                                    <img src="../../../assets/images/myjio/cardicons/go-to-desktop-js.png">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 mb-3">
-                        <div class="card round text-center" style="height: 460px;">
-                            <div class="trans-img">
-                                <img class="card-img-top" src="../../../assets/images/myjio/card/JioPages-Thumbnail-landing-page.jpg" alt="Card image">
-                            </div>
-                            <div class="card-body my-3">
-                                <h5 class="card-title"><img src="../../../assets/images/myjio/cardicons/jio-pages-logo-34x34-sticky1.png"> JioPages</h5>
-                                <p class="card-text text-muted">Faster, Safer and Simply Yours.</p>
-                                <card></card>
-                                <div class="mt-3">
-                                    <img src="../../../assets/images/myjio/cardicons/google-play-button-jiosecurity.png">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 mb-3">
-                        <div class="card round text-center" style="height: 460px;">
-                            <div class="trans-img">
-                                <img class="card-img-top" src="../../../assets/images/myjio/card/App Landing promo banner.png" alt="Card image">
-                            </div>
-                            <div class="card-body my-3">
-                                <h5 class="card-title"><img src="../../../assets/images/myjio/cardicons/Jiomeet-Logo-v1.png"> JioMeet</h5>
-                                <p class="card-text text-muted">Video Conferencing App.</p>
-                                <card></card>
-                                <div class="mt-3">
-                                    <img class="mb-1" src="../../../assets/images/myjio/cardicons/1App store.png">
-                                    <img class="ms-1 mb-1" src="../../../assets/images/myjio/cardicons/google-play-button-jiosecurity.png"><br>
-                                    <img src="../../../assets/images/myjio/cardicons/browser-logo-jm.png">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 mb-3">
-                        <div class="card round text-center" style="height: 460px;">
-                            <div class="trans-img">
-                                <img class="card-img-top" src="../../../assets/images/myjio/card/Mask Group 13.png" alt="Card image">
-                            </div>
-                            <div class="card-body my-3">
-                                <h5 class="card-title"><img src="../../../assets/images/myjio/cardicons/Group 30977.png"> JioHome</h5>
-                                <p class="card-text text-muted">Enhancing your home experience</p>
-                                <card></card>
-                                <div class="mt-3">
-                                    <img class="mb-1" src="../../../assets/images/myjio/cardicons/1App store.png">
-                                    <img class="ms-1 mb-1" src="../../../assets/images/myjio/cardicons/google-play-button-jiosecurity.png"><br>
-                                    <img src="../../../assets/images/myjio/cardicons/go-to-desktop-js.png">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 mb-3">
-                        <div class="card round text-center" style="height: 460px;">
-                            <div class="trans-img">
-                                <img class="card-img-top" src="../../../assets/images/myjio/card/home-jio-play-v5.jpg" alt="Card image">
-                            </div>
-                            <div class="card-body mb-3 mt-2">
-                                <h5 class="card-title"><img class="img-w" src="../../../assets/images/myjio/cardicons/logo-jiotv-v5.png"> JioTV</h5>
-                                <p class="card-text text-muted">Daily dose of entertainment.</p>
-                                <card></card>
-                                <div class="mt-3">
-                                    <img class="mb-1" src="../../../assets/images/myjio/cardicons/1App store.png">
-                                    <img class="ms-1" src="../../../assets/images/myjio/cardicons/google-play-button-jiosecurity.png">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 mb-3">
-                        <div class="card round text-center" style="height: 460px;">
-                            <div class="trans-img">
-                                <img class="card-img-top" src="../../../assets/images/myjio/card/Collage_432x270(1).jpg" alt="Card image">
-                            </div>
-                            <div class="card-body my-3">
-                                <h5 class="card-title"><img class="img-w" src="../../../assets/images/myjio/cardicons/jio-cinema-app-logo-v5_5.png"> JioCinema</h5>
-                                <p class="card-text text-muted">Movies, TV Shows, Music & more.</p>
-                                <card></card>
-                                 <div class="mt-3">
-                                    <img class="mb-1" src="../../../assets/images/myjio/cardicons/1App store.png">
-                                    <img class="ms-1 mb-1" src="../../../assets/images/myjio/cardicons/google-play-button-jiosecurity.png"><br>
-                                    <img src="../../../assets/images/myjio/cardicons/go-to-desktop-js.png">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 mb-3">
-                        <div class="card round text-center" style="height: 460px;">
-                            <div class="trans-img">
-                                <img class="card-img-top" src="../../../assets/images/myjio/card/jpl-thumbnail-landing-pg.png" alt="Card image">
-                            </div>
-                            <div class="card-body my-3">
-                                <h5 class="card-title"><img src="../../../assets/images/myjio/cardicons/jioposlite-logo.png"> JioPOS Lite</h5>
-                                <p class="card-text text-muted">Earn by helping Jio Customer</p>
-                                <card></card>
-                                <div class="mt-3">
-                                    <img src="../../../assets/images/myjio/cardicons/google-play-button-jiosecurity.png">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 mb-3">
-                        <div class="card round text-center" style="height: 460px;">
-                            <div class="trans-img">
-                                <img class="card-img-top" src="../../../assets/images/myjio/card/App-landing-page-banner.jpg" alt="Card image">
-                            </div>
-                            <div class="card-body my-3">
-                                <h5 class="card-title"><img src="../../../assets/images/myjio/cardicons/JioNews_AppIcon-thumbnail.png"> JioNews</h5>
-                                <p class="card-text text-muted">Your News. Your Language.</p>
-                                <card></card>
-                                <div class="mt-3">
-                                    <img class="mb-1" src="../../../assets/images/myjio/cardicons/1App store.png">
-                                    <img class="ms-1 mb-1" src="../../../assets/images/myjio/cardicons/google-play-button-jiosecurity.png"><br>
-                                    <img src="../../../assets/images/myjio/cardicons/go-to-desktop-js.png">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 mb-3">
-                        <div class="card round text-center" style="height: 460px;">
-                            <div class="trans-img">
-                                <img class="card-img-top" src="../../../assets/images/myjio/card/jio-chat-img2_a-12-21apr.jpg" alt="Card image">
-                            </div>
-                            <div class="card-body my-3">
-                                <h5 class="card-title"><img class="img-w" src="../../../assets/images/myjio/cardicons/jiochat-main-applogo-57x57.png"> JioChat</h5>
-                                <p class="card-text text-muted">An efficient way to stay connected.</p>
-                                <card></card>
-                                <div class="mt-3">
-                                    <img class="mb-1" src="../../../assets/images/myjio/cardicons/1App store.png">
-                                    <img class="ms-1" src="../../../assets/images/myjio/cardicons/google-play-button-jiosecurity.png">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 mb-3">
-                        <div class="card round text-center" style="height: 460px;">
-                            <div class="trans-img">
-                                <img class="card-img-top" src="../../../assets/images/myjio/card/Jio.com_banner.jpg" alt="Card image">
-                            </div>
-                            <div class="card-body mb-3 mt-2">
-                                <h5 class="card-title"><img class="img-w" src="../../../assets/images/myjio/cardicons/jio-drive-logo-14.png"> JioCloud</h5>
-                                <p class="card-text text-muted">Backup your files and contacts.</p>
-                                <card></card>
-                                <div class="mt-3">
-                                    <img class="mb-1" src="../../../assets/images/myjio/cardicons/1App store.png">
-                                    <img class="ms-1 mb-1" src="../../../assets/images/myjio/cardicons/google-play-button-jiosecurity.png"><br>
-                                    <img src="../../../assets/images/myjio/cardicons/go-to-desktop-js.png">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 mb-3">
-                        <div class="card round text-center" style="height: 460px;">
-                            <div class="trans-img">
-                                <img class="card-img-top" src="../../../assets/images/myjio/card/home-jiojoin-ver1.jpg" alt="Card image">
-                            </div>
-                            <div class="card-body my-3">
-                                <h5 class="card-title"><img class="img-w" src="../../../assets/images/myjio/cardicons/jiojion-applogo-57x57.png"> JioCall</h5>
-                                <p class="card-text text-muted">Get VoLTE & RCS on any phone.</p>
-                                <card></card>
-                                <div class="mt-3">
-                                    <img class="mb-1" src="../../../assets/images/myjio/cardicons/1App store.png">
-                                    <img class="ms-1" src="../../../assets/images/myjio/cardicons/google-play-button-jiosecurity.png">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 mb-3">
-                        <div class="card round text-center" style="height: 460px;">
-                            <div class="trans-img">
-                                <img class="card-img-top" src="../../../assets/images/myjio/card/home-jio-security-v5_78909aa345f6122cf3929ecf050db170434334.jpg" alt="Card image">
-                            </div>
-                            <div class="card-body my-3">
-                                <h5 class="card-title"><img class="img-w" src="../../../assets/images/myjio/cardicons/jiosecurity-1.png"> JioSecurity</h5>
-                                <p class="card-text text-muted">Protect phone, secure data.</p>
-                                <card></card>
-                                <div class="mt-3">
-                                    <img class="mb-1" src="../../../assets/images/myjio/cardicons/1App store.png">
-                                    <img class="ms-1" src="../../../assets/images/myjio/cardicons/google-play-button-jiosecurity.png">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 mb-3">
-                        <div class="card round text-center" style="height: 460px;">
-                            <div class="trans-img">
-                                <img class="card-img-top" src="../../../assets/images/myjio/card/jiohealthhub-aplandingv1.jpg" alt="Card image">
-                            </div>
-                            <div class="card-body my-3">
-                                <h5 class="card-title"><img class="img-w" src="../../../assets/images/myjio/cardicons/jiohealthlogo-57x57.png"> JioHealthHub</h5>
-                                <p class="card-text text-muted">Access tests, doctors & reports.</p>
-                                <card></card>
-                                <div class="mt-3">
-                                    <img class="mb-1" src="../../../assets/images/myjio/cardicons/1App store.png">
-                                    <img class="ms-1" src="../../../assets/images/myjio/cardicons/google-play-button-jiosecurity.png">
-                                </div>
-                            </div>
-                        </div>
+                    <div class="col-lg-3 col-md-6 mb-3" v-for="card in cards" :key="card.id">
+                        <card :card="card" :id="id" :title="title" :cardimg="cardimg" :text="text" :iconimg="iconimg" :img1="img1" :img2="img2" :img3="img3" v-bind:class="clr" />
                     </div>
                 </div>
             </section>
@@ -270,6 +45,143 @@
 import card from './card.vue'
 export default {
     name: 'index',
+    data() {
+        return {
+            cards:[
+                {
+                    id: 1,
+                    cardimg: require('../../../assets/images/myjio/card/home-myjio-v5_904a06738a22262052d670a5f61174cf.jpg'),
+                    iconimg: require('../../../assets/images/myjio/cardicons/myjio-logo-thumb-34x34-v2.png'),
+                    title: 'MyJio',
+                    text: 'For everything Jio.',
+                    img1: require('../../../assets/images/myjio/cardicons/1App store.png'),
+                    img2: require('../../../assets/images/myjio/cardicons/google-play-button-jiosecurity.png'),
+                    clr: 'red'
+                },
+                {
+                    id: 2,
+                    cardimg: require('../../../assets/images/myjio/card/promo-banner.432x270.jpg'),
+                    iconimg: require('../../../assets/images/myjio/cardicons/JioSaavn-Icon-30x30-12.png'),
+                    title: 'JioSaavn',
+                    text: 'All your music. Anytime. Anywhere.',
+                    img1: require('../../../assets/images/myjio/cardicons/1App store.png'),
+                    img2: require('../../../assets/images/myjio/cardicons/google-play-button-jiosecurity.png'),
+                    img3: require('../../../assets/images/myjio/cardicons/go-to-desktop-js.png')
+                },
+                {
+                    id: 3,
+                    cardimg: require('../../../assets/images/myjio/card/JioPages-Thumbnail-landing-page.jpg'),
+                    iconimg: require('../../../assets/images/myjio/cardicons/jio-pages-logo-34x34-sticky1.png'),
+                    title: 'JioPages',
+                    text: 'Faster, Safer and Simply Yours.',
+                    img1: require('../../../assets/images/myjio/cardicons/google-play-button-jiosecurity.png'),
+                },
+                {
+                    id: 4,
+                    cardimg: require('../../../assets/images/myjio/card/App Landing promo banner.png'),
+                    iconimg: require('../../../assets/images/myjio/cardicons/Jiomeet-Logo-v1.png'),
+                    title: 'JioMeet',
+                    text: 'Video Conferencing App.',
+                    img1: require('../../../assets/images/myjio/cardicons/1App store.png'),
+                    img2: require('../../../assets/images/myjio/cardicons/google-play-button-jiosecurity.png'),
+                    img3: require('../../../assets/images/myjio/cardicons/browser-logo-jm.png')
+                },
+                {
+                    id: 5,
+                    cardimg: require('../../../assets/images/myjio/card/Mask Group 13.png'),
+                    iconimg: require('../../../assets/images/myjio/cardicons/Group 30977.png'),
+                    title: 'JioHome',
+                    text: 'Enhancing your home experience',
+                    img1: require('../../../assets/images/myjio/cardicons/1App store.png'),
+                    img2: require('../../../assets/images/myjio/cardicons/google-play-button-jiosecurity.png'),
+                    img3: require('../../../assets/images/myjio/cardicons/go-to-desktop-js.png')
+                },
+                {
+                    id: 6,
+                    cardimg: require('../../../assets/images/myjio/card/home-jio-play-v5.jpg'),
+                    iconimg: require('../../../assets/images/myjio/cardicons/logo-jiotv-v5.png'),
+                    title: 'JioTV',
+                    text: 'Daily dose of entertainment.',
+                    img1: require('../../../assets/images/myjio/cardicons/1App store.png'),
+                    img2: require('../../../assets/images/myjio/cardicons/google-play-button-jiosecurity.png'),
+                },
+                {
+                    id: 7,
+                    cardimg: require('../../../assets/images/myjio/card/Collage_432x270(1).jpg'),
+                    iconimg: require('../../../assets/images/myjio/cardicons/jio-cinema-app-logo-v5_5.png'),
+                    title: 'JioCinema',
+                    text: 'Movies, TV Shows, Music & more.',
+                    img1: require('../../../assets/images/myjio/cardicons/1App store.png'),
+                    img2: require('../../../assets/images/myjio/cardicons/google-play-button-jiosecurity.png'),
+                    img3: require('../../../assets/images/myjio/cardicons/go-to-desktop-js.png'),
+                },
+                {
+                    id: 8,
+                    cardimg: require('../../../assets/images/myjio/card/jpl-thumbnail-landing-pg.png'),
+                    iconimg: require('../../../assets/images/myjio/cardicons/jioposlite-logo.png'),
+                    title: 'JioPOS Lite',
+                    text: 'Earn by helping Jio Customer',
+                    img1: require('../../../assets/images/myjio/cardicons/google-play-button-jiosecurity.png'),
+                },
+                {
+                    id: 9,
+                    cardimg: require('../../../assets/images/myjio/card/App-landing-page-banner.jpg'),
+                    iconimg: require('../../../assets/images/myjio/cardicons/JioNews_AppIcon-thumbnail.png'),
+                    title: 'JioNews',
+                    text: 'Your News. Your Language.',
+                    img1: require('../../../assets/images/myjio/cardicons/1App store.png'),
+                    img2: require('../../../assets/images/myjio/cardicons/google-play-button-jiosecurity.png'),
+                    img3: require('../../../assets/images/myjio/cardicons/go-to-desktop-js.png'),
+                },
+                {
+                    id: 10,
+                    cardimg: require('../../../assets/images/myjio/card/jio-chat-img2_a-12-21apr.jpg'),
+                    iconimg: require('../../../assets/images/myjio/cardicons/jiochat-main-applogo-57x57.png'),
+                    title: 'JioChat',
+                    text: 'An efficient way to stay connected.',
+                    img1: require('../../../assets/images/myjio/cardicons/1App store.png'),
+                    img2: require('../../../assets/images/myjio/cardicons/google-play-button-jiosecurity.png')
+                },
+                {
+                    id: 11,
+                    cardimg: require('../../../assets/images/myjio/card/Jio.com_banner.jpg'),
+                    iconimg: require('../../../assets/images/myjio/cardicons/jio-drive-logo-14.png'),
+                    title: 'JioCloud',
+                    text: 'Backup your files and contacts.',
+                    img1: require('../../../assets/images/myjio/cardicons/1App store.png'),
+                    img2: require('../../../assets/images/myjio/cardicons/google-play-button-jiosecurity.png'),
+                    img3: require('../../../assets/images/myjio/cardicons/go-to-desktop-js.png')
+                },
+                {
+                    id: 12,
+                    cardimg: require('../../../assets/images/myjio/card/home-jiojoin-ver1.jpg'),
+                    iconimg: require('../../../assets/images/myjio/cardicons/jiojion-applogo-57x57.png'),
+                    title: 'JioCall',
+                    text: 'Get VoLTE & RCS on any phone.',
+                    img1: require('../../../assets/images/myjio/cardicons/1App store.png'),
+                    img2: require('../../../assets/images/myjio/cardicons/google-play-button-jiosecurity.png'),
+                },
+                {
+                    id: 13,
+                    cardimg: require('../../../assets/images/myjio/card/home-jio-security-v5_78909aa345f6122cf3929ecf050db170434334.jpg'),
+                    iconimg: require('../../../assets/images/myjio/cardicons/jiosecurity-1.png'),
+                    title: 'JioSecurity',
+                    text: 'Protect phone, secure data.',
+                    img1: require('../../../assets/images/myjio/cardicons/1App store.png'),
+                    img2: require('../../../assets/images/myjio/cardicons/google-play-button-jiosecurity.png'),
+                },
+                {
+                    id: 14,
+                    cardimg: require('../../../assets/images/myjio/card/jiohealthhub-aplandingv1.jpg'),
+                    iconimg: require('../../../assets/images/myjio/cardicons/jiohealthlogo-57x57.png'),
+                    title: 'JioHealthHub',
+                    text: 'Access tests, doctors & reports.',
+                    img1: require('../../../assets/images/myjio/cardicons/1App store.png'),
+                    img2: require('../../../assets/images/myjio/cardicons/google-play-button-jiosecurity.png'),
+                },
+            ]
+        }
+    },
     components:{
         card
     }
@@ -277,6 +189,9 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+.clr {
+    color: red;
+}
 .bg {
     background: #ECECEC
 }
@@ -296,26 +211,5 @@ export default {
 // card
 .contain {
     width: 95%;
-    .round {
-    border-radius: 13px;
-    }
-    .card {
-        overflow: hidden;
-    }
-    .card:hover {
-        border: 1px solid #2f65b0;
-    }
-    .card-img-top {
-        transition: transform .6s; /* Animation */
-    }
-    .card-img-top:hover {
-        transform: scale(1.1); /* (110% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
-    }
-    .trans-img {
-        overflow: hidden;
-    }
-    .img-w {
-        width: 38px;
-    }
 }
 </style>
